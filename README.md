@@ -1,1 +1,3 @@
-# ee157_lab4
+# Lab 4: Magnetic Forces and Materials Lab
+
+
