@@ -76,6 +76,22 @@ For L = i , and co-energy the area under the λ − i curve, co-energy CE is giv
 Use polyfit equation L = 1.9x^2 − 35.8x + 215.1 and convert into standard units for inductance.  
 L = 0.0019(H/mm^2)x^2 − 0.0358(H/mm)x + 0.2151H for x in mm and L in H.
 
+DC resistance was R = 14.383 ohms. For a 12 V DC voltage:
+CE = 1/2*(0.0019(H/mm^2)x^2 − 0.0358(H/mm)x + 0.2151H)(12V/14.383ohms)^2 = 0.000661x^2 − 0.0126x + 0.0749
+
+F(x) = ∂CE/∂x = 0.000661(N/mm)x − 0.0126N
+
+We plotted the result below. 
+
+<img width="757" alt="force vs position" src="https://user-images.githubusercontent.com/71578472/171301496-39f62fed-8b5d-4b4e-9986-8d93b910de09.png">
+Figure: Force vs Position
+
+
+
+
+
+
+
 
 
 
