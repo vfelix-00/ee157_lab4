@@ -86,8 +86,9 @@ We plotted the result below.
 <img width="757" alt="force vs position" src="https://user-images.githubusercontent.com/71578472/171301496-39f62fed-8b5d-4b4e-9986-8d93b910de09.png">
 Figure: Force vs Position
 
+5. Does this comport with your experience using the solenoid? Explain your results.
 
-
+Yes, this comports with our experience using the solenoid. In lab, we noticed that as the plunger was pushed further in, it was increasingly difficult to move the plunger.
 
 
 
