@@ -45,5 +45,15 @@ We studied electromechanical force production through the use of a linear soleno
  Figure: Inductance vs Frequency, fully retracted
  
  
+ <img width="930" alt="Fig,Inductance vs frequency, fully extended" src="https://user-images.githubusercontent.com/71578472/171296363-95d8d448-ba5b-4d75-98e7-f865f7cff546.png">
+ Figure: Inductance vs Frequency, fully extended
  
+We are more interested in the inductance measurement at low frequencies because at high frequencies, an inductor acts like an open circuit and the inductance decreases. The inductance measured at 10 Hz was approximately 162 mH. The air gap was minimized when the plunger was fully retracted. The inductance measured at 10 kHz was approximately 42 mH. The air gap was maximized when the plunger was fully extended. 
+
+Inductance is inversely proportional to the length of the air gap. As the air gap increases, the inductance decreases. The general relation for reactance is R = l /uA and the general relation for inductance is L = N^2/R = N^2uA/l. Since μ0, the permeability of free space, is much smaller than the magnetic constant of magnetic materials, the reactance due to the air gap dominates for an inductor. 
+
+ 
+
+
+
 
