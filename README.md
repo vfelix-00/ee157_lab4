@@ -39,4 +39,9 @@ We studied electromechanical force production through the use of a linear soleno
 ## Questions
 
 1. Show your measurement of inductance vs. frequency for both the retracted and extended positions. Explain these results, for both scenarios. Also explain why we are more interested in the inductance measurement at low frequencies.
-2. 
+
+ <img width="932" alt="Screen Shot 2022-05-31 at 3 44 30 PM" src="https://user-images.githubusercontent.com/71578472/171296057-2a762171-05bc-4883-a7a1-e9d8870e8d19.png">
+ Figure: Inductance vs Frequency, fully retracted
+ 
+ 
+
