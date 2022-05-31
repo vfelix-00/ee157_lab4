@@ -36,3 +36,8 @@ We studied electromechanical force production through the use of a linear soleno
 3. Using the Analog Discovery, inductance was measured as a function of the position of the plunger. We measured the low frequency inductance with a range of 10-60 Hz.
 
 Electrical tape was wrapped around the plunger to set the position. A photograph was taken of the solenoid with a ruler in the shot to measure the position. We made sure the ruler and plunger were at the same distance from the camera lens. The change in plunger position between measurements was kept around 1mm or under. For this measurement, x = 0 was considered to be the position when the plunger was fully retracted. At least 10 inductance measurements were taken at different positions. We wanted more measurement points when the rate of change ∂L/∂x was high.
+
+## Questions
+
+1. Show your measurement of inductance vs. frequency for both the retracted and extended positions. Explain these results, for both scenarios. Also explain why we are more interested in the inductance measurement at low frequencies.
+2. 
