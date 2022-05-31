@@ -66,6 +66,15 @@ This is a fairly smooth curve. We are seeing the curve be close to a straight li
 Figure: Inductance vs Position, at 10 Hz with fitted polynomial of degree 1 with the equation: L = 1.9x^2 − 35.8x + 215.1
 
  
+4. Estimate the force as a function of position at 12V.
+- Assume that the co-energy and the energy are equal (the linear inductance assumption).
+- Assume the current in the inductor is constant, and governed by the DC resistance of the coil.
+- Plot your estimate of force ( ∂CE/ ∂x ).
+
+For L = i , and co-energy the area under the λ − i curve, co-energy CE is given by CE = 1/2 * L(x)i^2.
+
+Use polyfit equation L = 1.9x^2 − 35.8x + 215.1 and convert into standard units for inductance.  
+L = 0.0019(H/mm^2)x^2 − 0.0358(H/mm)x + 0.2151H for x in mm and L in H.
 
 
 
