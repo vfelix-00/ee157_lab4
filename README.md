@@ -63,8 +63,7 @@ This is a fairly smooth curve. We are seeing the curve be close to a straight li
 3. If your data is noisy, consider fitting the plot of L vs. x using a curve fitting technique of your choosing. (Piece-wise linear, polynomial, etc. are fine. Anything that looks visually in-line with your data will be satisfactory).
 
 <img width="722" alt="frequency with fitted polynomial " src="https://user-images.githubusercontent.com/71578472/171300084-6ee0d3b7-dde3-445b-9f49-ed376f16ed25.png">
-Figure: Inductance vs Position, at 10 Hz with fitted polynomial of degree 1 with the equation: L = 1.9x^2 − 35.8x + 215.1, with units of x in mm and L in mH
-
+Figure: Inductance vs Position, at 10 Hz with fitted polynomial of degree 1 with the equation: L = 1.9x^2 − 35.8x + 215.1
 
  
 
