@@ -49,9 +49,16 @@ We studied electromechanical force production through the use of a linear soleno
  
  
  
- We are more interested in the inductance measurement at low frequencies because at high frequencies, an inductor acts like an open circuit and the inductance decreases. The inductance measured at 10 Hz was approximately 162 mH. The air gap was minimized when the plunger was fully retracted. The inductance measured at 10 kHz was approximately 42 mH. The air gap was maximized when the plunger was fully extended. 
+We are more interested in the inductance measurement at low frequencies because at high frequencies, an inductor acts like an open circuit and the inductance decreases. The inductance measured at 10 Hz was approximately 162 mH. The air gap was minimized when the plunger was fully retracted. The inductance measured at 10 kHz was approximately 42 mH. The air gap was maximized when the plunger was fully extended. 
 
 Inductance is inversely proportional to the length of the air gap. As the air gap increases, the inductance decreases. The general relation for reactance is R = l /uA and the general relation for inductance is L = N^2/R = N^2uA/l. Since μ0, the permeability of free space, is much smaller than the magnetic constant of magnetic materials, the reactance due to the air gap dominates for an inductor. 
+
+2. Plot L vs. x using the data you collected. Is this a fairly smooth curve? Should it be? Please explain what you are seeing.
+
+<img width="723" alt="Inductance vs position at 10Hz" src="https://user-images.githubusercontent.com/71578472/171299712-2a07f603-a763-42c5-86af-81a6f79a3aa8.png">
+Figure: Inductance vs Position, at 10 Hz 
+
+This is a fairly smooth curve. We are seeing the curve be close to a straight line which can be expected with the linear inductance assumption.
 
  
 
