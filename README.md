@@ -136,6 +136,36 @@ An important action for set up was to connect the 4 Ω, 75 W power resistor in 
 2. Again, we collected a range of frequencies, ranging from 200 Hz to 400 Hz and higher and lower. We saved a few periods of voltage and current data as a
 CSV file (20,000 points) and we made sure we were not in XY mode when saving data.
 
+### Questions
 
+1. For both the inductor and solenoid, provide plots of the integral of voltage across the coil integral of v(t)dt vs. current through the coil i(t) for the various frequencies that you collected. To get a sensible plot, you should first extract one period of data from your measurements, and remove any dc offset (e.g. x-mean(x) for some vector x in MATLAB). Ensure that your axes are labeled appropriately.
+
+<img width="612" alt="lab 4 p1" src="https://user-images.githubusercontent.com/71578472/171329413-4424eb43-3599-446c-9bd7-1f2ce8285afd.png">
+
+<img width="617" alt="lab 4 p2" src="https://user-images.githubusercontent.com/71578472/171329475-84e72b9d-9f22-4645-b418-00ce59e7eb49.png">
+
+<img width="621" alt="lab 4 p3" src="https://user-images.githubusercontent.com/71578472/171329517-b34f99ce-2d1d-4c5a-ae4c-c288bbc83979.png">
+
+<img width="612" alt="lab 4 p4" src="https://user-images.githubusercontent.com/71578472/171329601-c0e44ecd-e499-4626-a541-3ad28d0ba376.png">
+
+<img width="619" alt="lab 4 p5" src="https://user-images.githubusercontent.com/71578472/171329656-4e37db82-5740-4587-b22d-f5a4770383b5.png">
+
+<img width="610" alt="lab 4 p6" src="https://user-images.githubusercontent.com/71578472/171329720-ca3a6291-b06f-4905-bdc9-6b23877ad16f.png">
+
+<img width="598" alt="lab 4 p7" src="https://user-images.githubusercontent.com/71578472/171329774-76224fb9-2335-434e-a364-870e7d34608d.png">
+
+<img width="619" alt="lab 4 p8" src="https://user-images.githubusercontent.com/71578472/171329817-eb15ffc7-4aea-4a5e-8cef-9556d1cee8a9.png">
+
+<img width="553" alt="lab 4 p9" src="https://user-images.githubusercontent.com/71578472/171329894-383fbe81-ef32-40e8-9030-3d09b4fb9fa6.png">
+
+<img width="563" alt="lab 4 p10" src="https://user-images.githubusercontent.com/71578472/171329957-d5999301-35df-487e-ad45-de12d9a0a9d6.png">
+
+<img width="560" alt="lab 4 p11" src="https://user-images.githubusercontent.com/71578472/171330058-18f7e68a-a24f-44e3-9193-e2767161fd40.png">
+
+<img width="555" alt="lab 4 p12" src="https://user-images.githubusercontent.com/71578472/171330100-ae5dc0c3-f1e8-46ca-afaf-af666a26c9ea.png">
+
+<img width="561" alt="lab 4 p13" src="https://user-images.githubusercontent.com/71578472/171330148-27d4df65-9411-4954-96f8-e9db265f7db9.png">
+
+Overall, there was more noise present when the solenoid was retracted. This also required more cycles to get the correct shape which could be due to the irregularity in the shape of the plunger.
 
 
