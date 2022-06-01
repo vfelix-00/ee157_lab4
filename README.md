@@ -100,4 +100,6 @@ Cores can be used to create higher performance magnetic components, but the core
 <img width="377" alt="Conceptual sketch of a B−Hcurve" src="https://user-images.githubusercontent.com/71578472/171322309-6cb0f6a7-d392-4333-86a5-9aca542af438.png">
 Figure: Conceptual sketch of a B−H curve
 
+In a toroidal inductor, the magnetic field H is proportional to the current in the coil (i(t) = 1/N*Hc*lc), while the magnetic flux density B is proportional to the integral of the voltage on the coil (i(t) = N*Ac*dBc/dt).
+
 
