@@ -126,4 +126,13 @@ The AC voltage across and current through the solenoid was measured. For importa
 4. We ensured that the ‘Volume’ knob on the audio amplifier was set to zero. The audio amplifier was turned on. We slowly increased the ‘Volume’ knob to maximum. We used the XY feature of the oscilloscope (in the ‘Horizontal’ menu) to view voltage vs. current.
 5. We collected a range of frequencies, ranging from 40 Hz to 100 Hz and higher and lower. We also collected measurements of when the plunger was fully retracted from the frame and when the plunger was fully inserted into the frame. We saved a few periods of voltage and current data as a CSV file (20,000 points). We made sure we were not in XY mode when saving data.
 
+### Measuring ac voltage across and current through the ferrite inductor
+
+An important action for set up was to connect the 4 Ω, 75 W power resistor in series with the inductor. We made sure to measure the voltage across the inductor, and not the voltage across the resistor and inductor together.
+
+#### Procedure 
+
+1. We repeated the above steps with the ferrite inductor instead of the solenoid. The important modification here was to have the 4 Ω, 75 W power resistor in series with the inductor we were measuring. This was to ensure that the impedance of the load was never below the specified rating of the audio amplifier, which could have caused a large current spike that could damage the amplifier.
+2. Again, we collected a range of frequencies, ranging from 200 Hz to 400 Hz and higher and lower. We saved a few periods of voltage and current data as a
+CSV file (20,000 points) and we made sure we were not in XY mode when saving data.
 
