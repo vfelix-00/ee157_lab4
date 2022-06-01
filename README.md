@@ -193,6 +193,43 @@ For each layer, it fits:
 
 N = 6.25 turns per layer * 53.125 layers = about 332 turns
 
-So, the cross-sectional area is given by thickness * height of frame = 2mm * 29mm.
-The length of the closed loop is given by 2 * length of frame + width of frame = 2 * 38mm + 29mm = 105mm, since there are two closed loops along the width of the frame, divided by the solenoid piston.
+Cross-sectional area is given by thickness * height of frame to equal 2 mm * 29 mm.
 
+Length of the closed loop is given by 2 * length of frame + width of frame:
+2 * 38mm + 29mm = 105mm, since there are two closed loops along the width of the frame, divided by the solenoid piston.
+
+Number of turns N = 332
+Cross sectional area Ac = 5.8x10^−6mm^2 
+Length of closed-loop: lc = 0.105m
+
+Volume of the frame:
+2*(length of frame + width of frame) * height of frame * thickness = 2 * (3.8cm + 2.9cm) * 2.9cm * 0.2cm = 7.772 cm^3
+
+Since B = 1/NAc times the integral of v(t)dt and H = Ni/c , we plotted B vs H at different frequencies. The power loss per cycle was estimated by calculating the area enclosed by the B-H curve using the formula for the area of an ellipse = pi * ab (a and b are the major and minor radius).
+
+<img width="736" alt="B vs H of solenoid at 40Hz " src="https://user-images.githubusercontent.com/71578472/171353516-d617d5ea-067a-46a4-8081-015b664b014f.png">
+Figure: B vs H of solenoid at 40 Hz
+
+Estimated power loss per cycle = 2513.27 W
+Estimated power loss per cycle per cm^3 = 323.38W 
+
+<img width="721" alt="B vs H of solenoid at 60Hz " src="https://user-images.githubusercontent.com/71578472/171353844-91da411e-22f0-44bc-91b5-7b8c7a283426.png">
+Figure: B vs H of solenoid at 60 Hz 
+Estimated power loss per cycle = 1217.38 W
+Estimated power loss per cycle per cm^3 = 156.63 W 
+
+<img width="720" alt="B vs H of solenoid at 80Hz" src="https://user-images.githubusercontent.com/71578472/171354075-23f0f92a-03a3-400f-90b4-dc59f13a8e71.png">
+Figure: B vs H of solenoid at 80 Hz
+Estimated power loss per cycle = 589.0 5W
+Estimated power loss per cycle per cm^3 = 75.79 W 
+
+<img width="736" alt="B vs H of solenoid at 100Hz" src="https://user-images.githubusercontent.com/71578472/171354305-2fc6e86a-e8d1-4a4c-93f4-a20056b73f91.png">
+Figure: B vs H of solenoid at 100 Hz 
+Estimated power loss per cycle = 353.43 W 
+Estimated power loss per cycle per cm^3 = 45.47 W
+
+
+
+## Conclusion
+
+In conclusion, the general trend we see is that running the solenoid at a higher frequency, results in less power loss per cycle. Inductance is inversely proportional to the length of the air gap. This means that as the air gap increases, the inductance decreases. Lastly, as the plunger was pushed further in, it was increasingly difficult to move the plunger, requiring more force.
