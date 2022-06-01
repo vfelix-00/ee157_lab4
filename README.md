@@ -114,7 +114,10 @@ Using the output of the audio amplifier, we applied a large sinusoidal signal at
 - Audio amplifier
 - BNC to RCA adapter
 
+### Measuring ac voltage across and current through the solenoid
 
 The AC voltage across and current through the solenoid was measured. For important precautions, we ensured that the signal generator output was set to High Impedance (Z) Output. We also ensured that the volume knob of our audio amplifier was set to zero when we turned it on. We were careful to not leave the audio amplifier unattended when turned on.
+
+#### Procedure 
 
 
