@@ -171,4 +171,18 @@ Overall, there was more noise present when the solenoid was retracted. This also
 2. Using your measurements of the deconstructed solenoid, translate your voltage and current measurements from the solenoid into B and H, and plot for the
 frequencies that you collected. At each frequency, calculate an estimate of power loss per cubic centimeter of core for one cycle.
 
+We took measurements of the deconstructed solenoid provided in lab. The measurements included the number of windings, the geometry of the steel frame, and the cross sectional area (thickness).
+
+Coils:
+- inner diameter: 13 mm 
+- outer diameter: 21 mm 
+- height: 34 mm
+- wire thickness: 0.64 mm for #22AWG wire
+
+Frame:
+- thickness of frame = 2 mm 
+- length of frame = 38 mm 
+- width of frame = 29 mm 
+- height of frame = 29 mm
+
 
