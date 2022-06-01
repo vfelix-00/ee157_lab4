@@ -120,4 +120,10 @@ The AC voltage across and current through the solenoid was measured. For importa
 
 #### Procedure 
 
+1. With the audio amplifier OFF, the signal generator was connected to one input channel of the audio amplifier using a BNC cable and the BNC to RCA adapter. We started with a 100 Hz, 200 mV sine wave.
+2. The terminals of the solenoid were connected to the corresponding output channel of the audio amplifier.
+3. On channel 1 of our oscilloscope, the differential probe was used to probe the voltage across the terminals of the solenoid. On channel 2, the current going into the solenoid was probed.
+4. We ensured that the ‘Volume’ knob on the audio amplifier was set to zero. The audio amplifier was turned on. We slowly increased the ‘Volume’ knob to maximum. We used the XY feature of the oscilloscope (in the ‘Horizontal’ menu) to view voltage vs. current.
+5. We collected a range of frequencies, ranging from 40 Hz to 100 Hz and higher and lower. We also collected measurements of when the plunger was fully retracted from the frame and when the plunger was fully inserted into the frame. We saved a few periods of voltage and current data as a CSV file (20,000 points). We made sure we were not in XY mode when saving data.
+
 
