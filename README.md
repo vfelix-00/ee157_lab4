@@ -168,4 +168,7 @@ CSV file (20,000 points) and we made sure we were not in XY mode when saving dat
 
 Overall, there was more noise present when the solenoid was retracted. This also required more cycles to get the correct shape which could be due to the irregularity in the shape of the plunger.
 
+2. Using your measurements of the deconstructed solenoid, translate your voltage and current measurements from the solenoid into B and H, and plot for the
+frequencies that you collected. At each frequency, calculate an estimate of power loss per cubic centimeter of core for one cycle.
+
 
