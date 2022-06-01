@@ -136,3 +136,6 @@ An important action for set up was to connect the 4 Ω, 75 W power resistor in 
 2. Again, we collected a range of frequencies, ranging from 200 Hz to 400 Hz and higher and lower. We saved a few periods of voltage and current data as a
 CSV file (20,000 points) and we made sure we were not in XY mode when saving data.
 
+
+
+
