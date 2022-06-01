@@ -90,9 +90,14 @@ Figure: Force vs Position
 
 Yes, this comports with our experience using the solenoid. In lab, we noticed that as the plunger was pushed further in, it was increasingly difficult to move the plunger.
 
+## Core Material Characterization
+
+### Overview 
+
+Cores can be used to create higher performance magnetic components, but the cores themselves introduce losses. These losses are associated with eddy currents and hysteresis. These effects were measured in lab. We obtained an experimental trace of the B−H loop of a ferrite and of steel.
 
 
-
-
+<img width="377" alt="Conceptual sketch of a B−Hcurve" src="https://user-images.githubusercontent.com/71578472/171322309-6cb0f6a7-d392-4333-86a5-9aca542af438.png">
+Figure: Conceptual sketch of a B−H curve
 
 
