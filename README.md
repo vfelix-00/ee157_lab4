@@ -104,4 +104,17 @@ In a toroidal inductor, the magnetic field H is proportional to the current in t
 
 Using the output of the audio amplifier, we applied a large sinusoidal signal at various frequencies across the terminals of the inductor/solenoid, and we measured the resulting voltage and current. The data was then processed on our computer to plot the B−H curves.
 
+### Materials
+
+- Solenoid
+- 330 uH ferrite inductor rated at 1.06 A (Coilcraft DC1012-334L)
+- 4 Ω, 75 W power resistor
+- Current probe
+- Differential voltage probe
+- Audio amplifier
+- BNC to RCA adapter
+
+
+The AC voltage across and current through the solenoid was measured. For important precautions, we ensured that the signal generator output was set to High Impedance (Z) Output. We also ensured that the volume knob of our audio amplifier was set to zero when we turned it on. We were careful to not leave the audio amplifier unattended when turned on.
+
 
