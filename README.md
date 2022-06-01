@@ -102,4 +102,6 @@ Figure: Conceptual sketch of a B−H curve
 
 In a toroidal inductor, the magnetic field H is proportional to the current in the coil (i(t) = 1/N*Hc*lc), while the magnetic flux density B is proportional to the integral of the voltage on the coil (i(t) = N*Ac*dBc/dt).
 
+Using the output of the audio amplifier, we applied a large sinusoidal signal at various frequencies across the terminals of the inductor/solenoid, and we measured the resulting voltage and current. The data was then processed on our computer to plot the B−H curves.
+
 
