@@ -186,3 +186,13 @@ Frame:
 - height of frame = 29 mm
 
 
+For each layer, it fits:
+(21mm-13mm width per layer)* 0.5/(0.64 mm per wire) = 6.25 turns per layer 
+
+34 mm height/ 0.64mm per wire = 53.125 layers total in height
+
+N = 6.25 turns per layer * 53.125 layers = about 332 turns
+
+So, the cross-sectional area is given by thickness * height of frame = 2mm * 29mm.
+The length of the closed loop is given by 2 * length of frame + width of frame = 2 * 38mm + 29mm = 105mm, since there are two closed loops along the width of the frame, divided by the solenoid piston.
+
